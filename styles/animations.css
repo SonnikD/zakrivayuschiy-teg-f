@@ -1,5 +1,5 @@
 .main-body {
-  fill: var(--background-color);
+  fill: transparent;
   transition: fill 0.3s linear;
 }
 
@@ -19,7 +19,7 @@
 }
 
 .core {
-  fill: var(--background-color);
+  fill: transparent;
   transition: fill 0.3s linear 0.03s;
 }
 
@@ -35,7 +35,7 @@
 
 .like-icon.is-liked .core {
   fill: var(--sparks-heart-color);
-  transition: fill 0.3s linear 0.05s;
+  transition: fill 0.3s linear;
 }
 
 .sparks {
