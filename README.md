@@ -5,4 +5,5 @@ https://github.com/SonnikD/zakrivayuschiy-teg-f
 ## Скриншоты
 
 ![Шапка сайта](./screenshot_1.png)
+
 ![Контент сайта](./screenshot_2.png)
